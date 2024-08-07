@@ -1,7 +1,6 @@
 # QML-for-Conspicuity-Detection-in-Production
 Womanium Quantum+AI 2024 Projects
 
-**Please review the participation guidelines [here](https://github.com/womanium-quantum/Quantum-AI-2024) before starting the project.**
 
 _**Do NOT delete/ edit the format of this read.me file.**_
 
@@ -10,8 +9,7 @@ _**Include all necessary information only as per the given format.**_
 ## Project Information:
 
 ### Team Size:
-  - Maximum team size = 2
-  - While individual participation is also welcome, we highly recommend team participation :)
+  - Team size = 1
 
 ### Eligibility:
   - All nationalities, genders, and age groups are welcome to participate in the projects.
@@ -33,13 +31,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
-
-Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Pranav VB
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-r33nPtyEtda62rL
 
 
 ### Project Solution:
