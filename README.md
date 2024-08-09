@@ -37,9 +37,13 @@ Team Member 1:
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
+
 First task ( Familiarization with Pennylane codebook tutorials on the official website) -  Task1.ipynb
+
 Second task ( Developing a variational quantum classifier QML model ) - Pennylane Task2.ipynb
+
 Third task (Quanvolutional neural networks on MNIST dataset) - Pennylane Task3.ipynb
+
 Fourth task ( Learning the sine function in interval 0 to 2pi) - pennylane t4.ipynb
 
 ### Project Presentation Deck:
