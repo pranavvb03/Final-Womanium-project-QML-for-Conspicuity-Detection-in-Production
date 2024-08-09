@@ -38,13 +38,13 @@ Team Member 1:
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
 
-First task ( Familiarization with Pennylane codebook tutorials on the official website) -  Task1.ipynb
+First task ( Familiarization with codebook tutorials) -  [Task1.ipynb](https://github.com/pranavvb03/Final-Womanium-project-QML-for-Conspicuity-Detection-in-Production/blob/main/PL%20task1.ipynb)
 
-Second task ( Developing a variational quantum classifier QML model ) - Pennylane Task2.ipynb
+Second task ( Developing a variational quantum classifier QML model ) - [Pennylane Task2.ipynb](https://github.com/pranavvb03/Final-Womanium-project-QML-for-Conspicuity-Detection-in-Production/blob/main/Task2%20(1).ipynb)
 
-Third task (Quanvolutional neural networks on MNIST dataset) - Pennylane Task3.ipynb
+Third task (Quanvolutional neural networks on MNIST dataset) - [Pennylane Task3.ipynb](https://github.com/pranavvb03/Final-Womanium-project-QML-for-Conspicuity-Detection-in-Production/blob/main/PL%20Task3.ipynb)
 
-Fourth task ( Learning the sine function in interval 0 to 2pi) - pennylane t4.ipynb
+Fourth task ( Learning the sine function in interval 0 to 2pi) - [pennylane t4.ipynb](https://github.com/pranavvb03/Final-Womanium-project-QML-for-Conspicuity-Detection-in-Production/blob/main/task4.ipynb)
 
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
