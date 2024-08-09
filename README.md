@@ -52,4 +52,5 @@ Fourth task ( Learning the sine function in interval 0 to 2pi) - [pennylane t4.i
 
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
+
 Presentation deck :- https://github.com/pranavvb03/Final-Womanium-project-QML-for-Conspicuity-Detection-in-Production/blob/main/Womanium%20Global%20Quantum%20%2BAi%20program.pptx
