@@ -43,7 +43,9 @@ First task ( Familiarization with codebook tutorials) -  [Task1.ipynb](https://g
 Second task ( Developing a variational quantum classifier QML model ) - [Pennylane Task2.ipynb](https://github.com/pranavvb03/Final-Womanium-project-QML-for-Conspicuity-Detection-in-Production/blob/main/Task2%20(1).ipynb)
 
 Third task (Quanvolutional neural networks on MNIST dataset) - [Pennylane Task3.ipynb](https://github.com/pranavvb03/Final-Womanium-project-QML-for-Conspicuity-Detection-in-Production/blob/main/PL%20Task3.ipynb)
+
 Training data for mnist - https://github.com/pranavvb03/Final-Womanium-project-QML-for-Conspicuity-Detection-in-Production/blob/main/quanvolution/quanvolutionq_train_images.npy
+
 Testing data for mnist - https://github.com/pranavvb03/Final-Womanium-project-QML-for-Conspicuity-Detection-in-Production/blob/main/quanvolution/quanvolutionq_test_images.npy
 
 Fourth task ( Learning the sine function in interval 0 to 2pi) - [pennylane t4.ipynb](https://github.com/pranavvb03/Final-Womanium-project-QML-for-Conspicuity-Detection-in-Production/blob/main/task4.ipynb)
